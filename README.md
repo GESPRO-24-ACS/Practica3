@@ -1,2 +1,4 @@
 Nombre de los compañeros
-Miguel Blanco
+Guillermo Arce
+Pablo Citores
+David Santamaría
